@@ -4,6 +4,16 @@
     <option name="customVMPath" />
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Scala_Content/Scala_project/scala-examples" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../Scala_Content/Scala_project/scala-examples" />
+            <option value="$PROJECT_DIR$/../Scala_Content/Scala_project/scala-examples/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
